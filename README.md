@@ -21,5 +21,5 @@ MODELS TRIED:
   4. LinearSVC
   5. XgBoost
 
-Here is the performances of above mentioned model with the corresponding kaggle score:
-<img src="http://tinypic.com/r/wlr3vd/9" />
+Here is the image of performances above mentioned model with the corresponding kaggle score:
+http://tinypic.com/r/wlr3vd/9
