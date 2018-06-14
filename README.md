@@ -22,4 +22,4 @@ MODELS TRIED:
   5. XgBoost
 
 Here is the performances of above mentioned model with the corresponding kaggle score:
-![Screenshot] (http://tinypic.com/r/wlr3vd/9)
+![Alt text] (http://tinypic.com/r/wlr3vd/9)
