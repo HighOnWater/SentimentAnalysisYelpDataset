@@ -11,6 +11,7 @@ Dataset Contains:
            - Sample Training dataset 
            - Original Training dataset(Subset)
            - Test set
+ link to dataset - https://www.dropbox.com/sh/671i5zo2yoyx24b/AAB4v2Tu-LUgV97mj8PalrTHa?dl=0          
            
 NOTES:
   1. The train set contains some reviews in different languages which were not removed during building the model.
