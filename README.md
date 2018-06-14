@@ -4,14 +4,13 @@ This Project is based on Sentiment Analysis of a subset of the Yelp Dataset Movi
 IMP: This project was implemented for a private kaggle competition in which our Team(of 5 members) came in 3rd(out of 16) in the competition with an accuracy of 91.28% on the entire test set.
 
 src:
-   The .ipynb file for the project(Does not have code fir Xgboost).
+   The .ipynb file for the project(Does not have code for Xgboost).
 
 Dataset Contains:
            - Sample submission file
            - Sample Training dataset 
-           - Original Training dataset(Subset)
-           - Test set
- link to dataset - https://www.dropbox.com/sh/671i5zo2yoyx24b/AAB4v2Tu-LUgV97mj8PalrTHa?dl=0          
+           
+link to Test and Train dataset - https://www.dropbox.com/sh/671i5zo2yoyx24b/AAB4v2Tu-LUgV97mj8PalrTHa?dl=0          
            
 NOTES:
   1. The train set contains some reviews in different languages which were not removed during building the model.
